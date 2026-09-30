@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Golden Shield/Board Base -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M30,28 L78,28 A6,6 0 0 1 84,34 L84,74 A6,6 0 0 1 78,80 L30,80 A6,6 0 0 1 24,74 L24,34 A6,6 0 0 1 30,28 Z" />
+
+    <!-- Inner Dark Frame -->
+    <path
+        android:fillColor="#1F1538"
+        android:pathData="M31.5,29.5 L76.5,29.5 A4.5,4.5 0 0 1 81,34 L81,74 A4.5,4.5 0 0 1 76.5,78.5 L31.5,78.5 A4.5,4.5 0 0 1 27,74 L27,34 A4.5,4.5 0 0 1 31.5,29.5 Z" />
+
+    <!-- 4 Ludo Quadrants -->
+    <!-- Red (Top Left) -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M29,31.5 L51,31.5 L51,51 L29,51 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,41 A4,4 0 1,1 44,41 A4,4 0 1,1 36,41" />
+
+    <!-- Green (Top Right) -->
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M57,31.5 L79,31.5 L79,51 L57,51 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,41 A4,4 0 1,1 72,41 A4,4 0 1,1 64,41" />
+
+    <!-- Blue (Bottom Left) -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M29,57 L51,57 L51,76.5 L29,76.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,67 A4,4 0 1,1 44,67 A4,4 0 1,1 36,67" />
+
+    <!-- Yellow (Bottom Right) -->
+    <path
+        android:fillColor="#FDD835"
+        android:pathData="M57,57 L79,57 L79,76.5 L57,76.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,67 A4,4 0 1,1 72,67 A4,4 0 1,1 64,67" />
+
+    <!-- Center White 3D Dice with Shadow -->
+    <path
+        android:fillColor="#100826"
+        android:pathData="M43,45 L67,45 A4,4 0 0 1 71,49 L71,69 A4,4 0 0 1 67,73 L43,73 A4,4 0 0 1 39,69 L39,49 A4,4 0 0 1 43,45 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,42 L66,42 A4,4 0 0 1 70,46 L70,66 A4,4 0 0 1 66,70 L42,70 A4,4 0 0 1 38,46 L38,46 A4,4 0 0 1 42,42 Z" />
+    <path
+        android:fillColor="#F0F2F5"
+        android:pathData="M42,42 L66,42 A4,4 0 0 1 70,46 L70,48 L38,48 L38,46 A4,4 0 0 1 42,42 Z" />
+
+    <!-- 6 Dice Dots (Red) -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M46,49 A2.2,2.2 0 1,1 50.4,49 A2.2,2.2 0 1,1 46,49" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M58,49 A2.2,2.2 0 1,1 62.4,49 A2.2,2.2 0 1,1 58,49" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M46,56 A2.2,2.2 0 1,1 50.4,56 A2.2,2.2 0 1,1 46,56" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M58,56 A2.2,2.2 0 1,1 62.4,56 A2.2,2.2 0 1,1 58,56" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M46,63 A2.2,2.2 0 1,1 50.4,63 A2.2,2.2 0 1,1 46,63" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M58,63 A2.2,2.2 0 1,1 62.4,63 A2.2,2.2 0 1,1 58,63" />
+
+    <!-- Royal Winner Crown on Top -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M44,38 L47,27 L54,32 L61,27 L64,38 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M47,27 L54,32 L51,38 L46,38 Z" />
+    <!-- Jewels on Crown -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M54,35 A1.2,1.2 0 1,1 56.4,35 A1.2,1.2 0 1,1 54,35" />
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M47.5,35 A1,1 0 1,1 49.5,35 A1,1 0 1,1 47.5,35" />
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M59.5,35 A1,1 0 1,1 61.5,35 A1,1 0 1,1 59.5,35" />
+</vector>

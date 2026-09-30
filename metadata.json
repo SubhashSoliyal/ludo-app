@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Arena",
+  "description": "Real-time online multiplayer Ludo game featuring private rooms, 2v2 & 4-player FFA, interactive dice rolling, leaderboards, tournaments, and in-game chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
